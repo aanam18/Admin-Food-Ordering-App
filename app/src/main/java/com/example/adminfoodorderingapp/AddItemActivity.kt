@@ -4,8 +4,6 @@ import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import androidx.activity.result.PickVisualMediaRequest
-import androidx.activity.result.contract.ActivityResultContract
 import androidx.activity.result.contract.ActivityResultContracts
 import com.example.adminfoodorderingapp.databinding.ActivityAddItemBinding
 import com.example.adminfoodorderingapp.model.AllMenu
